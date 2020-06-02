@@ -2,6 +2,5 @@
 
 Installs Docker on linux
 
-Uses official script from 
-
-(https://docs.docker.com/engine/install/ubuntu/)
+Uses official script from:
+https://docs.docker.com/engine/install/ubuntu/
